@@ -1,5 +1,5 @@
 # MarsInsightSeismicDataDownloadScript
-This is a simple script to automatically download Mars Insight Seismic Data from IRIS.
+This is a simple script to automatically download Mars Insight seismic data from IRIS.
 
 The script is for convenience of those not familiar with FDSN web service.
 
