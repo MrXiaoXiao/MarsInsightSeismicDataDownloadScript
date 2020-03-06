@@ -17,3 +17,4 @@ Then, run
 
 python MarsInsightXBDownloader.py --folder SAVE_PATH  
 
+![Example Image](https://github.com/MrXiaoXiao/MarsInsightSeismicDataDownloadScript/blob/master/example_waveform_image.png)
