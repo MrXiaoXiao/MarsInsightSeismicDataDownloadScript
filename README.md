@@ -11,7 +11,7 @@ and
 
 https://www.iris.edu/hq/sis/insight
 
-To use script, you need to have Python3 (https://www.python.org) and Obspy (https://github.com/obspy/obspy) installed.
+To use this script, you need to have Python3 (https://www.python.org) and Obspy (https://github.com/obspy/obspy) installed.
 
 Then, run
 
